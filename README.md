@@ -1,0 +1,2 @@
+# nanorc
+nanorc for cobol
